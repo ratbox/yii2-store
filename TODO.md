@@ -18,6 +18,7 @@
 * OAuth2 via Google, Facebook, etc.
 * Shop contacts: Telegram, WhatsApp, Viber, etc.
 * Shop URL.
+* Guarantee service (automated?)
 * Public and private products, shops, accounts.
 * Invites for private shops.
 * Ratings and reviews for shops and products.
